@@ -1,0 +1,9 @@
+section .py2-xterm {
+  color: #FFFF00;
+  margin-bottom: 50px;
+}
+
+section .py3-xterm {
+  color: #FF69B4;
+  margin-bottom: 50px;
+}

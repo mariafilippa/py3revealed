@@ -1,0 +1,3 @@
+
+class Helper(object):
+    pass
